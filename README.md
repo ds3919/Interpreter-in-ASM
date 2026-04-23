@@ -6,7 +6,7 @@ Write your code after line 93 (0x5C). The four instructions available:
 - 0x01 = Increment Accumulator
 - 0x02 = Decrement Accumulator
 - 0x03 = Print Accumulator
-- 0x04 = HALT Program\
+- 0x00 = HALT Program\
 
 You can run the program on [tsiram](https://tsiram.com).\
 *200 instruction max including the prebuilt code.
