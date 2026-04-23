@@ -1,5 +1,5 @@
 # Interpreter-in-ASM
-A small 4 instruction interpreter built in ASM using custom [6502 instruction set](./Instruction-Set.pdf) provided by Brian Gormanly, professor of Organization and Architecture at Marist University.
+A small 4 instruction interpreter built in ASM using custom [6502 instruction set](./Instruction%20Set.pdf) provided by Brian Gormanly, professor of Organization and Architecture at Marist University.
 
 ## Usage
 Write your code after line 93 (0x5C). The four instructions available:
